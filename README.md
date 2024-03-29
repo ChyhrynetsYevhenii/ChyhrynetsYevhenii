@@ -41,18 +41,6 @@ I am an experienced data analyst with over two years of experience in big data p
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFD43B?style=for-the-badge&logo=matplotlib&logoColor=black)&nbsp;
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge)&nbsp;
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)&nbsp;
-![Amplitude](https://img.shields.io/badge/Amplitude-FFFFFF?style=for-the-badge&logo=amplitude&logoColor=black)&nbsp;
-
-#### Tools and Technologies
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
 
 #### IDEs
 
@@ -65,8 +53,7 @@ I am an experienced data analyst with over two years of experience in big data p
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/maryna-lysenko/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/marina.lsnk/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/evgeniy-chygrynetc-05070b225/)
 </p>
 
 
