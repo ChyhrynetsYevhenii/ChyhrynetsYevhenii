@@ -38,12 +38,3 @@ I am an experienced data analyst with over two years of experience in big data p
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
-
-### GitHub статистика:
-
-<a href="https://github.com/ChyhrynetsYevhenii)"><img src="https://github-readme-stats.vercel.app/api?username=FilimonovAlexey&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FilimonovAlexey's GitHub stats" /></a>
-
-<a href="https://github.com/FilimonovAlexey" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovAlexey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Использование языков программирования" /></a>
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
