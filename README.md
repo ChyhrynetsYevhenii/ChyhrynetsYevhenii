@@ -4,7 +4,7 @@
 Data Analyst / Data Scientist
 --------------------
 
-Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
+I am an experienced data analyst with over two years of experience in big data processing and analysis. My main workplace was in the ClickLoop CPA network, where I worked from January 2022 to February 2024. Apart from my main job, I am also involved in education as a Data Scientist and Data Analyst tutor at Main Academy & Main School and GoIT EdTech respectively.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
